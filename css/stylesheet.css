@@ -1,1 +1,31 @@
-c
+p{
+	width:25%;
+	height: 275px;
+	text-align: left;
+	position: relative;
+	background-color: gray;
+}
+#PUBGd
+{
+	padding: 40px;
+}
+#fortnited
+{
+	padding:40px;
+}
+#CSd
+{
+	padding 40px;
+}
+section{
+		position:relative;
+		
+}
+#PUBG
+{
+	position:relative;
+	border-spacing: border-box;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color:blue;
+}
